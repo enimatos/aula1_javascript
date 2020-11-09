@@ -1,0 +1,40 @@
+body{
+    background:#e8c5c5;
+    margin-left: 30px;
+    margin-right: 100px;
+}
+
+header{
+    margin-top: 70px;
+}
+
+h1{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 300px;
+    border-radius: 20px;
+   justify-items: center;
+}
+
+.logo{
+    width: 30px;
+  
+}
+
+footer{
+    margin-bottom: 30px;
+    text-align: center;
+}
